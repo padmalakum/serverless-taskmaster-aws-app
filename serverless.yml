@@ -1,5 +1,5 @@
 org: padma09
-app: testing-end-to-end
+app: taskmaster-app
 service: serverless-taskmaster-aws-app
 frameworkVersion: '3'
 
