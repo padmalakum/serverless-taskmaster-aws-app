@@ -19,7 +19,7 @@ functions:
     handler: src/hello.handler
     events:
       - httpApi:
-          path: /
+          path: /hello
           method: get
   kaamBharo:
     handler: src/kaamBharo.handler
