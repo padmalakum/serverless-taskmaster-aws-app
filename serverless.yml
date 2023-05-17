@@ -1,6 +1,6 @@
 org: padma09
 app: taskmaster-app
-service: serverless-taskmaster-aws-app
+service: taskmaster-app
 frameworkVersion: '3'
 
 provider:
